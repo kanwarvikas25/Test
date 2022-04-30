@@ -1,7 +1,9 @@
-using namespace std;
+// Your First C++ Program
 
-int main()
-{
-	cout <<Hi there! Welcome to Linux World!" << endl;
-	return 0;
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
 }
+
