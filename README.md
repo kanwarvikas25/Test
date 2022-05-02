@@ -1,5 +1,5 @@
 test content for git
 
-To compile the code, run:
+To compile the code, rerun:
 
 g++ -o build/hi-there src/hi-there.cpp
